@@ -1,4 +1,4 @@
-if (recipe) {
+if (["SPANISH", "FRENCH", "ENGLISH"].includes(recipe)) {
   fudge =
     (recipe === "SPANISH" && SPANISH_FUDGE) ||
     (recipe === "FRENCH" && FRENCH_FUDGE) ||
