@@ -1,7 +1,7 @@
 # ReactTest
 #### [DEMO](https://testcan.netlify.app/UiForm)
 
-#### A1, A3, and A4 are inside CodeRefactor directory. A2 and A5 are inside uitest directory 
+### *** A1, A3, and A4 are inside CodeRefactor directory. A2 and A5 are inside uitest directory ***
 
 
 Insall the dependencies in the root directory and the uitest directory too
